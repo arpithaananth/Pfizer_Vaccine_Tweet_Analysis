@@ -14,8 +14,8 @@
 - 'Vaccine', 'covid', 'vaccination', 'people' & 'first' are the most commonly used words in the Tweets
 - Top hashtags are 'PfizerBioNTech', 'COVID19' & 'CovidVaccine'
 - It is observed that 9.9% of the Tweets are from Verified Users of Twitter
-- TextBlob classifed 51.0% of Tweets to be Neutral sentiment, while, VADER classified 39.8% tweets to Neutral sentiment
-- TextBlob classified 39.8% Tweets as Positivie, while VADER classified 51.0% tweets as Postive sentiment
+- TextBlob classifed 51.2% of Tweets to be Neutral sentiment, while, VADER classified 39.8% tweets to Neutral sentiment
+- TextBlob classified 39.8% Tweets as Positivie, while VADER classified 51.2% tweets as Postive sentiment
 - Both TextBlob & VADER classified 9.0% Tweets as Negative sentiment
 - Maximum Favorites are receieved by Neutral sentiment Tweets according to TextBlob, while according to VADER maximum Favorites are received by Positive sentiment Tweets
 - Both TextBlob & VADER reveal that Maximum Retweets are received by Neutral Sentiement Tweets
